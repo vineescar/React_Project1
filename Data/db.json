@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 09, 2023 9:29:33 AM",
+      "body": " elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "title": "vineescar no1aa",
+      "datetime": "July 09, 2023 10:29:43 AM",
+      "body": "i am a traineee at slt"
+    },
+    {
+      "id": 6,
+      "title": "vineescar",
+      "datetime": "July 09, 2023 3:17:21 PM",
+      "body": "good boy"
+    },
+    {
+      "id": 7,
+      "title": "vinu 212",
+      "datetime": "July 09, 2023 3:24:05 PM",
+      "body": "jhshshs"
+    },
+    {
+      "id": 8,
+      "title": "vineescarnicnieicn",
+      "datetime": "July 09, 2023 3:26:03 PM",
+      "body": "nwdnconjiowceniowniocwiocn"
+    }
+  ]
+}
